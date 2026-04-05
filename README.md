@@ -142,12 +142,5 @@ This project helped me understand how different DevOps tools work together to bu
 ## 📬 Contact
 
 
-## Update 1
-Second pull request
-
-
-## Update 2
-Second pull request
-
-## Update 2
-Second PR test
+## Feature 2 Update
+Testing second pull request 🚀
